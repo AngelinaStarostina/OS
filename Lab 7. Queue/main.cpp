@@ -1,6 +1,8 @@
 #include <time.h>
 #include "Header.h"
-using namespace std;
+using std::cin;
+using std::cout;
+using std::endl;
 
 CRITICAL_SECTION criticalSection;
 HANDLE em;

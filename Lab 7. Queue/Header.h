@@ -1,8 +1,9 @@
 #pragma once
 #include <windows.h>
 #include <iostream>
-
-using namespace std;
+using std::cin;
+using std::cout;
+using std::endl;
 
 class MonitorQueue {
 private:
